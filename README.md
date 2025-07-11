@@ -34,6 +34,6 @@ Este projeto foi desenvolvido em equipe para praticar não apenas as habilidades
 
 Este projeto foi desenvolvido com a colaboração de:
 
--   Jcss - (Ainda Sem Github (10/07/25))
--   Henllembart - https://github.com/Henllembart
--   Vixus - https://github.com/vixus-dev
+-   Jcess - (https://github.com/JcessF)
+-   Henllembart - (https://github.com/Henllembart)
+-   Vixus - (https://github.com/vixus-dev)
